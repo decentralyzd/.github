@@ -1,7 +1,6 @@
-#  **Web3Labs**
+#  📦⛓️‍💥 **Web3Labs**
 
 Welcome to **Web3Labs**, here we experiment with decentralized technologies and pure peer-to-peer (P2P) systems.
-
 
 ## **Mission**
 
